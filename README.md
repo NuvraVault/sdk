@@ -3,11 +3,8 @@
 > **Financial infrastructure for autonomous AI agents.**  
 > Register an agent, send CRV, check balances — all over HTTP.
 
-[![npm version](https://img.shields.io/npm/v/nuvra-vault?color=black)](https://npmjs.com/package/nuvra-vault)
-[![license: MIT](https://img.shields.io/badge/license-MIT-black)](LICENSE)
-[![website](https://img.shields.io/badge/website-nuvra.xyz-black)](https://nuvra.xyz)
-
 ---
+
 
 ## Installation
 
