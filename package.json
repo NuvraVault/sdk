@@ -1,0 +1,29 @@
+{
+  "name": "nuvra-vault",
+  "version": "0.1.0",
+  "description": "Official Node.js SDK for Nuvra Vault — Financial infrastructure for autonomous AI agents",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node examples/quickstart.js"
+  },
+  "keywords": [
+    "nuvra",
+    "vault",
+    "ai",
+    "agents",
+    "payments",
+    "crv",
+    "financial",
+    "autonomous"
+  ],
+  "author": "NuvraVault",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NuvraVault/nuvra-vault-sdk"
+  },
+  "homepage": "https://nuvra.xyz",
+  "dependencies": {},
+  "devDependencies": {}
+}
