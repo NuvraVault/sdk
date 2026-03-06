@@ -84,9 +84,9 @@ const payTool = {
 
 ## Links
 
-- 🌐 Website: [nuvra.xyz](https://nuvra.xyz)
-- 📖 Docs: [nuvra.xyz/docs](https://nuvra.xyz/docs)
-- 🔌 API Explorer: [nuvra.xyz/api](https://nuvra.xyz/api)
+- 🌐 Website: [nuvravault.xyz](https://nuvravault.xyz)
+- 📖 Docs: [nuvravault.xyz/docs](https://nuvravault.xyz/docs)
+- 🔌 API Explorer: [nuvravault.xyz/api](https://nuvravault.xyz/api)
 
 ---
 
